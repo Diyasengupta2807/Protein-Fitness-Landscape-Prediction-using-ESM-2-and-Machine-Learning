@@ -1,5 +1,5 @@
 # Protein Insulin Heatmap Visualization
-Created this repository for my course project in the subject **AI in Biology** under Dr. Prof. Kavitha Thirumurugan
+Created this repository for my course project in the subject **AI in Biology** under Dr. Prof. Kavitha Thirumurugan.
 This repository provides a Jupyter Notebook to visualize **predicted mutation effects** on the insulin protein (PDB ID: 3I40) using 3D structural visualization with **3Dmol.js** and an embedded **horizontal colorbar**. The project allows users to map numerical scores (e.g., mutation effects, experimental metrics, or computational predictions) onto the protein structure for intuitive analysis.
 
 ---
