@@ -36,19 +36,19 @@ jupyter notebook Protein_Insulin_Heatmap.ipynb
 ## Usage
 Replace the example heatmap scores with your own per-residue data.
 Run the notebook cells to:
--Download the insulin PDB file.
--Normalize scores to a 0–1 range.
--Visualize the 3D protein structure with colored residues.
--Display the horizontal colorbar with appropriate labeling.
--Explore different colormaps by changing the cmap variable in the notebook.
+- Download the insulin PDB file.
+- Normalize scores to a 0–1 range.
+- Visualize the 3D protein structure with colored residues.
+- Display the horizontal colorbar with appropriate labeling.
+- Explore different colormaps by changing the cmap variable in the notebook.
 
 ## Example Output
--3D interactive insulin structure with residues colored by score.
--Horizontal colorbar labeled "Predicted Mutation Effect".
--Title indicating *Protein: insulin*
+- 3D interactive insulin structure with residues colored by score.
+- Horizontal colorbar labeled "Predicted Mutation Effect".
+- Title indicating *Protein: insulin*
 
 ## References
--RCSB Protein Data Bank (PDB): https://www.rcsb.org/
--3Dmol.js Documentation: http://3dmol.csb.pitt.edu/doc/index.html
--Matplotlib Colormaps: https://matplotlib.org/stable/tutorials/colors/colormaps.html
+- RCSB Protein Data Bank (PDB): https://www.rcsb.org/
+- 3Dmol.js Documentation: http://3dmol.csb.pitt.edu/doc/index.html
+- Matplotlib Colormaps: https://matplotlib.org/stable/tutorials/colors/colormaps.html
 
